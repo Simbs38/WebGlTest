@@ -1,5 +1,7 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AndrePrefabComponent" preserve="all" />
+    <type fullname="ClaraPrefabComponent" preserve="all" />
     <type fullname="CoupleGoalListItem" preserve="all" />
     <type fullname="KikaPrefabComponent" preserve="all" />
     <type fullname="Project.Systems.AnimationContainer.AnimationContainerView" preserve="all" />
@@ -9,6 +11,7 @@
     <type fullname="Project.Systems.StartupPage.StartupPageView" preserve="all" />
     <type fullname="Project.Systems.TimeLine.Components.TimeLineEvent" preserve="all" />
     <type fullname="Project.Systems.TimeLine.TimeLineView" preserve="all" />
+    <type fullname="StartUpEnvironmentAnimationView" preserve="all" />
     <type fullname="TimeLine.Systems.CoupleGoals.CoupleGoalsView" preserve="all" />
     <type fullname="UltimateClean.ButtonSounds" preserve="all" />
     <type fullname="UltimateClean.CleanButton" preserve="all" />
@@ -57,6 +60,7 @@
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
