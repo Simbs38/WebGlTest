@@ -4,6 +4,8 @@
     <type fullname="AnimationView" preserve="all" />
     <type fullname="ClaraPrefabComponent" preserve="all" />
     <type fullname="CoupleGoalListItem" preserve="all" />
+    <type fullname="GenericFemalePrefabComponent" preserve="all" />
+    <type fullname="GenericMalePrefabComponent" preserve="all" />
     <type fullname="KikaPrefabComponent" preserve="all" />
     <type fullname="Project.Systems.Domino.DominoView" preserve="all" />
     <type fullname="Project.Systems.HomePageButtons.HomePageButtonsView" preserve="all" />
@@ -70,12 +72,14 @@
   </assembly>
   <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
