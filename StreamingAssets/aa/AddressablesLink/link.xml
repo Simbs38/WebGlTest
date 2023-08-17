@@ -16,6 +16,7 @@
     <type fullname="Project.Systems.TimeLine.TimeLineView" preserve="all" />
     <type fullname="TimeLine.Systems.CoupleGoals.CoupleGoalsDetailsPopupView" preserve="all" />
     <type fullname="TimeLine.Systems.CoupleGoals.CoupleGoalsView" preserve="all" />
+    <type fullname="TimeLineDetailsPopupView" preserve="all" />
     <type fullname="UltimateClean.ButtonSounds" preserve="all" />
     <type fullname="UltimateClean.CleanButton" preserve="all" />
   </assembly>
