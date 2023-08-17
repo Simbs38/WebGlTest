@@ -3,6 +3,7 @@
     <type fullname="AndrePrefabComponent" preserve="all" />
     <type fullname="AnimationView" preserve="all" />
     <type fullname="ClaraPrefabComponent" preserve="all" />
+    <type fullname="CoupleGoalDetailListItem" preserve="all" />
     <type fullname="CoupleGoalListItem" preserve="all" />
     <type fullname="GenericFemalePrefabComponent" preserve="all" />
     <type fullname="GenericMalePrefabComponent" preserve="all" />
@@ -13,10 +14,10 @@
     <type fullname="Project.Systems.StartupPage.StartupPageView" preserve="all" />
     <type fullname="Project.Systems.TimeLine.Components.TimeLineEvent" preserve="all" />
     <type fullname="Project.Systems.TimeLine.TimeLineView" preserve="all" />
+    <type fullname="TimeLine.Systems.CoupleGoals.CoupleGoalsDetailsPopupView" preserve="all" />
     <type fullname="TimeLine.Systems.CoupleGoals.CoupleGoalsView" preserve="all" />
     <type fullname="UltimateClean.ButtonSounds" preserve="all" />
     <type fullname="UltimateClean.CleanButton" preserve="all" />
-    <type fullname="UltimateClean.Gradient" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
